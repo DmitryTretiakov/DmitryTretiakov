@@ -1,6 +1,6 @@
 - I’m @DmitryTretiakov.
 - I’m interested in NLP.
-- I’m currently learning ML with Keras and Tensorflow.
+- I’m currently learning ML, use of LLMs and LangChain pipelines.
 - How to reach me ... on mail dimtrt@mail.ru and vk https://vk.com/id249915440
 
 <!---
